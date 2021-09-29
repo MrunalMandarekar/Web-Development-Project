@@ -1,0 +1,30 @@
+hr {
+  text-align: center;
+}
+
+table {
+  padding: 10px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+body {
+  background-color: #FEFBF3;
+}
+
+.payment {
+  margin: 100px;
+  margin-left: 200px;
+  padding: 15px;
+}
+
+.item {
+  margin: 50px;
+  background-color: #FFDAC7;
+  margin-left: 350px;
+  margin-right: 350px;
+  border: 2px solid #D57E7E;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 5px;
+}
